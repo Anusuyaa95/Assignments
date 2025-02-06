@@ -14,7 +14,7 @@ public class Assignment1 {
 		String occupation = "Software Engineer";
 		String favColour = "Blue";
 		short currentYear = 2023;
-		int[] followers = {1,000,000};
+		String followers = "1,000,000";
 		float movieRating = 7.5f;
 		char bloodType = 'A';
 		String title = "To kill a Mockingbird";
@@ -27,9 +27,7 @@ public class Assignment1 {
 		
 		
 
-		
-		
-		
+
 
 	}
 
